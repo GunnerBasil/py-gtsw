@@ -1,2 +1,2 @@
-# py-gtsu
-A Python script that relies on the googletrans module to mess up a string
+# py-gtsw
+GTSW, or Google translate string warp, is...
