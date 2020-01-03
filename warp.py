@@ -1,7 +1,7 @@
 from googletrans import Translator
 
 # v2.1
-GTSW_version = 2.1
+GTSW_version = 2.0
 tr = Translator()
 def warp_once(text): # this is the script to run text through google translate once
     stg1 = tr.translate(text, dest="es",src="en")
