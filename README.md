@@ -19,12 +19,19 @@ Download the warp.py file, and change the use_example variable to False. Then, y
 # Api documentation
 
 ###### warp(text,power)
-  Warps a string n amount of times and returns it
+
+  Warps a string n amount of times and returns it.
+  
   Text is the string to be warped.
+  
   Power is the amount of times that it should be warped.
   
 ###### warpstat(text,power)
-  Same as above, but displays status updates
+
+  Same as above, but displays status updates.
   
 ###### warp_once(text)
-  Warps a string once and returns it
+
+  Warps a string once and returns it.
+  
+  Text is the string to be warped.
