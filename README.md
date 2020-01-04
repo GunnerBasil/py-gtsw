@@ -41,6 +41,10 @@ pip install gtsw
   
   Text is the string to be warped.
 
+###### smiley()
+  
+  prints out a smiley face ":D"
+
 # Update log
 
 v2.0 Uploaded to pip
