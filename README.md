@@ -1,3 +1,4 @@
+i stopped working on this and removed the pip install option.
 # py-gtsw
 GTSW, or Google translate string warp, is a python script meant to mess up strings. That's all. This is not meant to be serious, so do whatever you want, just give me credit. If you need help, put down an issue
 # How to use
